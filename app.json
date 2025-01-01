@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Currency Convertor",
+    "slug": "currency-convertor",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/currency-exchange-icon-2048x2048-s07u6cmi.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/currency-exchange-icon-2048x2048-s07u6cmi.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.kartik0047.currencyconvertor"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/currency-exchange-icon-2048x2048-s07u6cmi.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.kartik0047.currencyconvertor"
+    },
+    "web": {
+      "favicon": "./assets/currency-exchange-icon-2048x2048-s07u6cmi.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2ec9c2de-7328-4fd9-9ab2-f7950f8f8233"
+      }
+    }
+  }
+}
